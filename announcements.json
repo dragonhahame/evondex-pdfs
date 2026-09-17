@@ -1,1 +1,51 @@
 
+[
+  {
+    "id": 1,
+    "type": "announcement",
+    "title": "evonDEX Announces Launch of Next-Generation P2P Decentralised Exchange",
+    "description": "Discover evonDEX, a next-generation P2P decentralised exchange built for secure and transparent crypto trading.",
+    "date": "September 9, 2026",
+    "time": "3 min read",
+    "location": "Token Update",
+    "linkText": "Read",
+    "tagIcon": "Tag",
+    "pdf": "https://raw.githubusercontent.com/dragonhahame/evondex-pdfs/main/evondex-next-generation-launch.pdf"
+  },
+  {
+    "id": 3,
+    "type": "announcement",
+    "title": "EVDEX → EVXC Migration",
+    "description": "We're migrating to evondex coin (EVXC) to address security concerns and strengthen our platform for the long term.",
+    "date": "September 7, 2026",
+    "time": "2 min read",
+    "location": "Migration",
+    "linkText": "Read",
+    "tagIcon": "Tag",
+    "pdf": "https://raw.githubusercontent.com/dragonhahame/evondex-pdfs/main/token-migration-news.pdf"
+  },
+  {
+    "id": 2,
+    "type": "announcement",
+    "title": "Join Our X Channel & Watch EVONDEX Access Guides",
+    "description": "Join our official X channel and watch step-by-step videos to learn how to access EVONDEX, connect your wallet, and manage EVXC.",
+    "date": "September 9, 2026",
+    "time": "2 min read",
+    "location": "Community",
+    "linkText": "Read",
+    "tagIcon": "Heart",
+    "pdf": "https://raw.githubusercontent.com/dragonhahame/evondex-pdfs/main/evondex-x-post.pdf"
+  },
+  {
+    "id": 4,
+    "type": "announcement",
+    "title": "MarCom Specialist — evonDex.net",
+    "description": "Join evonDex.net as a MarCom Specialist and help drive marketing, community engagement, and brand growth in the Web3 ecosystem.",
+    "date": "September 15, 2026",
+    "time": "2 min read",
+    "location": "Remote",
+    "linkText": "Read",
+    "tagIcon": "Heart",
+    "pdf": "https://raw.githubusercontent.com/dragonhahame/evondex-pdfs/main/marcom-specialist-evondex.pdf"
+  }
+]
