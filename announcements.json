@@ -59,5 +59,17 @@
     "linkText": "Read",
     "tagIcon": "Heart",
     "pdf": "https://raw.githubusercontent.com/dragonhahame/evondex-pdfs/main/marcom-specialist-evondex.pdf"
+  },
+  {
+    "id": 6,
+    "type": "announcement",
+    "title": "Pros Testing MarCom Specialist — evonDex.net",
+    "description": "Join evonDex.net as a MarCom Specialist and help drive marketing, community engagement, and brand growth in the Web3 ecosystem.",
+    "date": "September 15, 2026",
+    "time": "2 min read",
+    "location": "Remote",
+    "linkText": "Read",
+    "tagIcon": "Heart",
+    "pdf": "https://raw.githubusercontent.com/dragonhahame/evondex-pdfs/main/marcom-specialist-evondex.pdf"
   }
 ]
